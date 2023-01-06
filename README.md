@@ -7,8 +7,6 @@ __________________________
 
 - 👨‍💻 My Gitlab  [https://gitlab.com/IldarIldar](https://gitlab.com/IldarIldar)
 
-<!-- - 📫 How to reach me **ildartashtekov@gmail.com**  -->
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -60,4 +58,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 How to reach me **blabla@gmail.com**  
 -->
