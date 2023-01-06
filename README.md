@@ -20,11 +20,12 @@ __________________________
 This project is a work for the Technologic Institute of Barcelona when i was studying there, the goal
 of this project was apply math to tecnology to create art.
 
+
 ### Artificial Neural Network from Scratch
 
 -[repository](https://github.com/IldarTashtekov/ANN-from-scratch)
 
-This project is a basic neural network made in pure python to learn in depth the fundamentals of neural networks
+This project is a basic neural network made in pure python to learn in depth the fundamentals of neural networks.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
