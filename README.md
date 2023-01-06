@@ -7,7 +7,7 @@ __________________________
 
 - 👨‍💻 My Gitlab  [https://gitlab.com/IldarIldar](https://gitlab.com/IldarIldar)
 
-// - 📫 How to reach me **ildartashtekov@gmail.com** //
+<> - 📫 How to reach me **ildartashtekov@gmail.com** 
 
 
 <h3 align="left">Languages and Tools:</h3>
