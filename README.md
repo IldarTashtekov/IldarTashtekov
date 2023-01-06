@@ -6,7 +6,7 @@ __________________________
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left" letter-spacing= "2pt"> 
   
    <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> 
@@ -19,7 +19,6 @@ __________________________
   </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   </a> 
-
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="80" height="50"/>
   </a>  
@@ -29,7 +28,6 @@ __________________________
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   </a> 
- 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a> 
