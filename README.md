@@ -1,10 +1,6 @@
-<h1 style="text-align: center;">
-Ildar Tashtekov
-</h1>
+#Ildar Tashtekov
 __________________________
-<h2 style="text-align: center;">
-Im a Junior developer specialized in data engineering
-</h2>
+##Im a Junior developer specialized in data engineering
 __________________________
 
 - 🌱 I’m currently learning **Apache Spark, Pytorch and Maths**
