@@ -1,8 +1,9 @@
-### Ildar Tashtekov
+<header align="center">
+## Ildar Tashtekov
 __________________________
 #### Im a Junior developer specialized in data engineering
 __________________________
-
+</header>
 - 🌱 I’m currently learning **Apache Spark, Pytorch and Maths**
 
 - 👨‍💻 My Gitlab  [https://gitlab.com/IldarIldar](https://gitlab.com/IldarIldar)
