@@ -27,6 +27,8 @@ of this project was apply math to tecnology to create art.
 
 This project is a basic neural network made in pure python to learn in depth the fundamentals of neural networks.
 
+
+_____________________
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
