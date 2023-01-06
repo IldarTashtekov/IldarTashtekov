@@ -13,9 +13,9 @@ __________________________
 __________________________
 
 ### Generative art research
--[web link](https://ildarildar.gitlab.io/m13_processing_p5.js/grilla_Bootstrap/index.html)
+- [web link](https://ildarildar.gitlab.io/m13_processing_p5.js/grilla_Bootstrap/index.html)
 
--[repository](https://gitlab.com/IldarIldar/m13_processing_p5.js)
+- [repository](https://gitlab.com/IldarIldar/m13_processing_p5.js)
 
 This project is a work for the Technologic Institute of Barcelona when i was studying there, the goal
 of this project was apply math to tecnology to create art.
