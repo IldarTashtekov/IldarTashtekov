@@ -18,7 +18,7 @@ __________________________
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>   </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="50"/>   </a> 
 
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
     <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="80" height="50"/>
