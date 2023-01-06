@@ -8,6 +8,18 @@ __________________________
 - 👨‍💻 My Gitlab  [https://gitlab.com/IldarIldar](https://gitlab.com/IldarIldar)
 
 
+__________________________
+## My favourite own projects 
+__________________________
+
+#### Generative art research
+-[web link](https://ildarildar.gitlab.io/m13_processing_p5.js/grilla_Bootstrap/index.html)
+-[gitlab repository](https://gitlab.com/IldarIldar/m13_processing_p5.js)
+
+This project is a work for the Technologic Institute of Barcelona when i was studying there, the goal
+of this project was apply math to tecnology to create art.
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
