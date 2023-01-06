@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ildar Tashtekov
+__________________________
+Im a Junior developer specialized in data engineering
+__________________________
 
 <!--
 **IldarTashtekov/IldarTashtekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
