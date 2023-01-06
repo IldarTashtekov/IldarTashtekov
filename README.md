@@ -1,6 +1,10 @@
+<div style="text-align: center;">
 # Ildar Tashtekov
+</div>
 __________________________
+<div style="text-align: center;">
 ## Im a Junior developer specialized in data engineering
+</div>
 __________________________
 
 - 🌱 I’m currently learning **Apache Spark, Pytorch and Maths**
@@ -9,7 +13,9 @@ __________________________
 
 
 __________________________
+<div style="text-align: center;">
 ## My favourite own projects 
+</div>
 __________________________
 
 ### Generative art research
