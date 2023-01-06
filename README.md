@@ -23,7 +23,7 @@ of this project was apply math to tecnology to create art.
 
 ### Artificial Neural Network from Scratch
 
--[repository](https://github.com/IldarTashtekov/ANN-from-scratch)
+- [repository](https://github.com/IldarTashtekov/ANN-from-scratch)
 
 This project is a basic neural network made in pure python to learn in depth the fundamentals of neural networks.
 
