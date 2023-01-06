@@ -1,6 +1,6 @@
 ## Ildar Tashtekov
 __________________________
-###Im a Junior developer specialized in data engineering
+Im a Junior developer specialized in data engineering
 __________________________
 
 <!--
