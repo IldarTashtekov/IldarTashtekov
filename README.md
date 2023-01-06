@@ -43,7 +43,15 @@ __________________________
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> 
+  <a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/" target="_blank" rel="noreferrer"> 
+    <img       src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="spring" width="40" height="40"/> 
+  </a> 
+
+
+
 </p>
+
+
 
 <!--
 **IldarTashtekov/IldarTashtekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
