@@ -1,6 +1,6 @@
-#Ildar Tashtekov
+# Ildar Tashtekov
 __________________________
-##Im a Junior developer specialized in data engineering
+## Im a Junior developer specialized in data engineering
 __________________________
 
 - 🌱 I’m currently learning **Apache Spark, Pytorch and Maths**
