@@ -9,9 +9,8 @@ __________________________
 
 
 __________________________
-<div style="text-align: center;">
+
 ## My favourite own projects 
-</div>
 __________________________
 
 ### Generative art research
