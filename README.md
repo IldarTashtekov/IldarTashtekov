@@ -51,7 +51,7 @@ _____________________
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"/>
   </a> 
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsvn.apache.org%2Frepos%2Fasf%2Fkafka%2Fsite%2Flogos%2Foriginals%2Fpng%2F&psig=AOvVaw1Xv7r1ovlsN7tIrUANPgED&ust=1673566660322000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCj9-PXwPwCFQAAAAAdAAAAABAE" alt="kafka" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> 
   </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
